@@ -1,0 +1,112 @@
+
+<header>
+    <nav class="navbar navbar-expand-lg bg-primary">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#"><b>SA.</b></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="customer_btn"href="#">Customer</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" id="item_btn"href="#">Item</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link"id="order_btn" href="#">Order</a>
+                    </li>
+
+
+                </ul>
+                <form class="d-flex" role="search">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success" type="submit">Search</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+</header>
+<br>
+<!-- 2nd head-->
+<nav class="navbar navbar-expand-lg bg-primary">
+    <div class="container-fluid">
+
+        <a class="nav-link" href="#"><b>ORDERS</b></a>
+
+    </div>
+</nav>
+
+<br>
+
+
+<!-- 3rd set-->
+<button type="button" id="back_btn" class="btn btn-outline-dark">Back</button>
+<br>
+<br>
+<button class="btn btn-dark"> Search items </button>
+<button class="btn btn-dark">Search </button>
+<button class="btn btn-dark"> Add items</button>
+<button class="btn btn-dark">View items </button>
+
+<br>
+<br>
+<br>
+
+<table class="table table-bordered">
+    <thead class="bg-secondary">
+
+    <tr>
+        <th> Item Code</th>
+        <th> Description</th>
+        <th> QTY</th>
+        <th> Unit Price</th>
+        <th>Total </th>
+        <th>Action </th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td> -</td>
+        <td> -</td>
+        <td> -</td>
+        <td> -</td>
+        <td> -</td>
+        <td> -</td>
+
+
+
+    </tr>
+    </tbody>
+</table>
+<link rel="stylesheet" href="../assests/fonts/fonts/css/all.min.css">
+<link rel="stylesheet" href="../assests/css/bootstrap.min.css">
+
+<script> $('#order_btn').click(function () {
+    $('#rm').load('order.html');
+});
+</script>
+
+
+<script> $('#customer_btn').click(function () {
+    $('#rm').load('customer.html');
+});
+</script>
+
+
+<script> $('#item_btn').click(function () {
+    $('#rm').load('item.html');
+});
+</script>
+
+
+<script> $('#back_btn').click(function () {
+    $('#rm').load('item.html');
+});
+</script>
