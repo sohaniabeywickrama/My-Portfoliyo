@@ -14,27 +14,69 @@
 
         #header
 
-        header > section {
-            float: right;
-            position: relative;
-            z-index:33;
-            width: 200%;
-            height: 20px;
+       #navbar {
+            overflow: hidden;
+            background-color: #ea06e6;
+            padding: 90px 10px;
+            transition: 0.4s;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 99;
         }
-        header > section > nav > ul > li {
-            padding: 0 30px 0px 10px;
-            display: inline-block;
+
+         #navbar a {
+            float: left;
+            color: deeppink;
+            text-align: center;
+            padding: 6px;
+            text-decoration: none;
+            font-size: 18px;
+            line-height: 25px;
+            border-radius: 2px;
         }
-        header > section > nav > ul > li > a {
-            color: #1c1c1c;
+
+   #navbar #logo {
+            font-size: 35px;
             font-weight: bold;
-            text-decoration: unset;
-            position: relative;
+            transition: 0.4s;
         }
+
+        #navbar a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+
+      #navbar a.active {
+            background-color: deeppink;
+            color: #000000;
+        }
+
+        #navbar-right {
+            float: right;
+            color: #000000;
+        }
+
+        @media screen and (max-width: 580px) {
+            #navbar {
+                padding: 20px 10px !important;
+            }
+            #navbar a {
+                float: none;
+                display: block;
+                text-align: left;
+            }
+            #navbar-right {
+                float: none;
+            }
+        }
+
         .name {
             color: deeppink;
         }
 
+
+#home
 
 
 
@@ -312,7 +354,7 @@
             color: #ffffff;
             outline: none;
             border: none;
-            background-color:#fa118e ;
+            background-color: #10060b;
             border-radius: 5px;
         }
         #footer { }
@@ -330,26 +372,31 @@
 
 <main>
     <header>
-     <section>
-         <nav>
-             <ul>
 
-                 <h2 class="name"> SA.</h2>
-                 <li class="soso"><a href="#home">Home</a></li>
-                 <li><a href="#about-me">About</a></li>
-                 <li><a href="#services">Services</a></li>
-                 <li><a href="#skills">Skills</a></li>
-                 <li><a href="#projects">Projects</a></li>
-                 <li><a href="#education">Education</a></li>
-                 <li><a href="#contact">Contact</a></li>
+        <div id="navbar">
+
+
+                 <a href="#default" id="logo">SA.</a>
+                 <div id="navbar-right">
+                 <a class="active" href="#home">Home</a></li>
+                 <a href="#about-me">About</a></li>
+                 <a href="#services">Services</a></li>
+                 <a href="#skills">Skills</a></li>
+                 <a href="#projects">Projects</a></li>
+                 <a href="#education">Education</a></li>
+                 <<a href="#contact">Contact</a></li>
+        </div>
+        </div>
              </ul>
          </nav>
      </section>
     </header>
+<br>
+
 
     <section id="home">
 <section class="Home-Text-Container">
-
+    <br>
     <img alt="logo"  src="assets/image/Hero%203d%20image.png">
     <h2 class="hello">Hello! <br> I’m <span> Sohani Abeywickrama</span> </h2>
 
