@@ -16,7 +16,7 @@
 
        #navbar {
             overflow: hidden;
-            background-color: #ea06e6;
+            background-color: black;
             padding: 90px 10px;
             transition: 0.4s;
             position: fixed;
@@ -27,7 +27,7 @@
 
          #navbar a {
             float: left;
-            color: deeppink;
+            color: black;
             text-align: center;
             padding: 6px;
             text-decoration: none;
@@ -41,15 +41,17 @@
             font-weight: bold;
             transition: 0.4s;
         }
-
+        #navbar span {
+            color: #fa118e;
+        }
         #navbar a:hover {
             background-color: #ddd;
             color: black;
         }
 
       #navbar a.active {
-            background-color: deeppink;
-            color: #000000;
+            background-color: #000000;
+            color: deeppink;
         }
 
         #navbar-right {
@@ -376,7 +378,7 @@
         <div id="navbar">
 
 
-                 <a href="#default" id="logo">SA.</a>
+                 <a href="#default" id="logo"><span>SA</span>.</a>
                  <div id="navbar-right">
                  <a class="active" href="#home">Home</a></li>
                  <a href="#about-me">About</a></li>
