@@ -41,7 +41,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/jani/My-Portfoliyo-master" />
+    <property name="last_opened_file_path" value="E:/wish/My-Portfolio-master" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -50,19 +50,6 @@
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Case_01.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/CSS/Animation/Case_01.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -109,7 +96,7 @@
       <workItem from="1664976695610" duration="2247000" />
       <workItem from="1665018428481" duration="1225000" />
       <workItem from="1665027561175" duration="12398000" />
-      <workItem from="1665111504125" duration="30725000" />
+      <workItem from="1665111504125" duration="31831000" />
     </task>
     <servers />
   </component>
