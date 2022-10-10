@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="db9432ae-c998-4f4b-93de-afdb5cd93e41" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/js/calculator/assests/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/js/calculator/assests/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,11 +50,24 @@
       <recent name="D:\Myportfoliyo-main\Assignment" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Case_01.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/CSS/Animation/Case_01.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Case_05.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/CSS/Basic/Case_05.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/js/calculator/assests/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/index.html" useBuiltInWebServerPort="true">
@@ -67,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.sohani.html" />
         <item itemvalue="JavaScript Debug.login.html" />
         <item itemvalue="JavaScript Debug.Case_01.html" />
-        <item itemvalue="JavaScript Debug.Case_05.html" />
       </list>
     </recent_temporary>
   </component>
@@ -97,6 +111,8 @@
       <workItem from="1665018428481" duration="1225000" />
       <workItem from="1665027561175" duration="12398000" />
       <workItem from="1665111504125" duration="31831000" />
+      <workItem from="1665285340223" duration="3209000" />
+      <workItem from="1665368163166" duration="299000" />
     </task>
     <servers />
   </component>
