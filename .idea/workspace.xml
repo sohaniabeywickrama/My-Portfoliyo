@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="db9432ae-c998-4f4b-93de-afdb5cd93e41" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment/CSS/Animation/Case_03.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/CSS/Animation/Case_03.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/CSS/Animation/Case_01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/CSS/Animation/Case_02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/CSS/Animation/Case_03.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/CSS/Animation/Case_04.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assignment/js/spa/POS/assests/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/js/spa/POS/assets/css/bootstrap-grid.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assignment/js/spa/POS/assests/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/js/spa/POS/assets/css/bootstrap-grid.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assignment/js/spa/POS/assests/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/js/spa/POS/assets/css/bootstrap-grid.min.css" afterDir="false" />
@@ -2480,7 +2483,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/hiru/MyPortfolio-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -2555,7 +2558,7 @@
       <workItem from="1665027561175" duration="12398000" />
       <workItem from="1665111504125" duration="31831000" />
       <workItem from="1665285340223" duration="3209000" />
-      <workItem from="1665368163166" duration="11116000" />
+      <workItem from="1665368163166" duration="11673000" />
     </task>
     <servers />
   </component>
