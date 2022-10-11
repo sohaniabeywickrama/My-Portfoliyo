@@ -52,7 +52,7 @@
       <recent name="D:\Myportfoliyo-main\Assignment\js\spa\assert\js" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Case_06.html">
+  <component name="RunManager" selected="JavaScript Debug.Case_02.html">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -64,10 +64,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Case_02.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/CSS/Basic/Case_02/Case_02.html" useBuiltInWebServerPort="true">
+    <configuration name="Case_01.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/CSS/Transition/Case_01.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Case_03.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/CSS/Basic/Case_03/Case_03.html" useBuiltInWebServerPort="true">
+    <configuration name="Case_02.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/CSS/Transition/Case_02.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="Case_04.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/CSS/Basic/Case_04/Case_04.html" useBuiltInWebServerPort="true">
@@ -81,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Case_02.html" />
+        <item itemvalue="JavaScript Debug.Case_01.html" />
         <item itemvalue="JavaScript Debug.Case_06.html" />
         <item itemvalue="JavaScript Debug.Case_05.html" />
         <item itemvalue="JavaScript Debug.Case_04.html (1)" />
-        <item itemvalue="JavaScript Debug.Case_03.html (1)" />
-        <item itemvalue="JavaScript Debug.Case_02.html" />
       </list>
     </recent_temporary>
   </component>
