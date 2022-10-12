@@ -245,11 +245,11 @@
             border-radius: 5px;
         }
 
-        @media screen and (max-width: 580px) {
-            #home-set {
-                padding: 20px 10px !important;
+        @media only screen and (max-width: 768px) {
+            /* For mobile phones: */
+            [class*="col-"] {
+                width: 100%;
             }
-
         }
 
 
@@ -425,12 +425,14 @@
             background-color: #f10f84;
             border-radius: 5px;
         }
-        @media screen and (max-width: 580px) {
-            #home-set {
-                padding: 20px 10px !important;
-            }
 
+        @media only screen and (max-width: 768px) {
+            /* For mobile phones: */
+            [class*="col-"] {
+                width: 100%;
+            }
         }
+
 
 
         #footer
