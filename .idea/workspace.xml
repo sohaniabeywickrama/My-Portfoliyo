@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db9432ae-c998-4f4b-93de-afdb5cd93e41" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assignment/CSS/Animation/Case_03/Case_03.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/CSS/Animation/Case_03/Case_03.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,17 +55,6 @@
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.Case_03.html">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Case_03.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/CSS/Animation/Case_03/Case_03.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -115,7 +104,7 @@
       <workItem from="1665111504125" duration="31831000" />
       <workItem from="1665285340223" duration="3209000" />
       <workItem from="1665368163166" duration="12607000" />
-      <workItem from="1665454377806" duration="12744000" />
+      <workItem from="1665454377806" duration="14072000" />
     </task>
     <servers />
   </component>
