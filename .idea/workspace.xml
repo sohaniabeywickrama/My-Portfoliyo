@@ -52,7 +52,7 @@
       <recent name="D:\Myportfoliyo-main\Assignment\js\spa\assert\js" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Case_01.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.Case_02.html">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -72,10 +72,10 @@
     <configuration name="Case_01.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/CSS/Animation/Case_01/Case_01.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Case_03.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/CSS/Animation/Case_03/Case_03.html" useBuiltInWebServerPort="true">
+    <configuration name="Case_02.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/CSS/Transition/Case_02.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Case_05.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/CSS/Basic/Case_05/Case_05.html" useBuiltInWebServerPort="true">
+    <configuration name="Case_03.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/CSS/Animation/Case_03/Case_03.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/index.html" useBuiltInWebServerPort="true">
@@ -83,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Case_02.html" />
         <item itemvalue="JavaScript Debug.Case_01.html (1)" />
         <item itemvalue="JavaScript Debug.Case_01.html" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.Case_03.html" />
-        <item itemvalue="JavaScript Debug.Case_05.html" />
       </list>
     </recent_temporary>
   </component>
