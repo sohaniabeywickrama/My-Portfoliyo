@@ -53,7 +53,7 @@
       <recent name="D:\Myportfoliyo-main\Assignment\js\spa\assert\js" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.login.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.login.html">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -84,8 +84,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.login.html (1)" />
         <item itemvalue="JavaScript Debug.login.html" />
+        <item itemvalue="JavaScript Debug.login.html (1)" />
         <item itemvalue="JavaScript Debug.Case_06.html" />
         <item itemvalue="JavaScript Debug.Case_05.html" />
         <item itemvalue="JavaScript Debug.Case_04.html (1)" />
