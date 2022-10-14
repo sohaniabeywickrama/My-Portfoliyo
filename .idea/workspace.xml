@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="db9432ae-c998-4f4b-93de-afdb5cd93e41" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment/CSS/Framewarks/pos/foms/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/CSS/Framewarks/pos/foms/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment/js/spa/foms/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/js/spa/foms/dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
       <recent name="D:\Myportfoliyo-main\Assignment\js\spa\assert\js" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.dashboard.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -88,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.dashboard.html (1)" />
         <item itemvalue="JavaScript Debug.login.html (1)" />
         <item itemvalue="JavaScript Debug.login.html" />
         <item itemvalue="JavaScript Debug.dashboard.html" />
-        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +126,7 @@
       <workItem from="1665650607918" duration="40000" />
       <workItem from="1665650698492" duration="61000" />
       <workItem from="1665650884699" duration="4614000" />
-      <workItem from="1665727537614" duration="6171000" />
+      <workItem from="1665727537614" duration="7472000" />
     </task>
     <servers />
   </component>
