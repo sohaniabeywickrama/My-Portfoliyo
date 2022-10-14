@@ -12,6 +12,7 @@ Mockup - https://www.figma.com/file/0DDyosA9u2lJUPYgmI1Vyo/Portfolio?node-id=0%3
 Github - https://github.com/sohaniabeywickrama/Myportfoliyo.git
 
 
+![Screenshot (19)](https://user-images.githubusercontent.com/99112193/195819255-a8a8367b-ddba-4386-ae66-e778c7e2fa0f.png)
 
 
 
