@@ -13,6 +13,7 @@ Github - https://github.com/sohaniabeywickrama/Myportfoliyo.git
 
 
 
+![Screenshot (20)](https://user-images.githubusercontent.com/99112193/195826805-89f53050-60f5-4ad8-9012-98e2f47a989b.png)
 
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/99112193/195809775-daa695ef-9dd5-4e84-9ef8-3558e3c95005.png)
