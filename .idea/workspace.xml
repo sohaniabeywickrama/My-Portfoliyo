@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="db9432ae-c998-4f4b-93de-afdb5cd93e41" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/CSS/Framewarks/pos/foms/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/CSS/Framewarks/pos/foms/dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/js/spa/foms/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/js/spa/foms/dashboard.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +57,7 @@
       <recent name="D:\Myportfoliyo-main\Assignment\js\spa\assert\js" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.login.html">
+  <component name="RunManager" selected="JavaScript Debug.dashboard.html (1)">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -69,10 +71,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Item.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/CSS/Framewarks/pos/foms/Item.html" useBuiltInWebServerPort="true">
+    <configuration name="dashboard.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/js/spa/foms/dashboard.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="dashboard_content.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/CSS/Framewarks/pos/foms/dashboard_content.html" useBuiltInWebServerPort="true">
+    <configuration name="dashboard.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/CSS/Framewarks/pos/foms/dashboard.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/index.html" useBuiltInWebServerPort="true">
@@ -86,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.login.html" />
+        <item itemvalue="JavaScript Debug.dashboard.html (1)" />
         <item itemvalue="JavaScript Debug.login.html (1)" />
+        <item itemvalue="JavaScript Debug.login.html" />
+        <item itemvalue="JavaScript Debug.dashboard.html" />
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.dashboard_content.html" />
-        <item itemvalue="JavaScript Debug.Item.html" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +127,7 @@
       <workItem from="1665650607918" duration="40000" />
       <workItem from="1665650698492" duration="61000" />
       <workItem from="1665650884699" duration="4614000" />
-      <workItem from="1665727537614" duration="4989000" />
+      <workItem from="1665727537614" duration="6171000" />
     </task>
     <servers />
   </component>
