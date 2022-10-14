@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db9432ae-c998-4f4b-93de-afdb5cd93e41" name="Default Changelist" comment="" />
+    <list default="true" id="db9432ae-c998-4f4b-93de-afdb5cd93e41" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/CSS/Transition/Case_02.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/CSS/Transition/Case_02.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/CSS/asserts/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/CSS/asserts/fonts/css/all.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/asserts/css/normalize.css" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,30 +59,28 @@
       <recent name="D:\Myportfoliyo-main\Assignment\js\spa\assert\js" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.login.html">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Case_04.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/CSS/Basic/Case_04/Case_04.html" useBuiltInWebServerPort="true">
+    <configuration name="Case_01.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/CSS/Transition/Case_01.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Case_05.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/CSS/Basic/Case_05/Case_05.html" useBuiltInWebServerPort="true">
+    <configuration name="Case_02.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/CSS/Transition/Case_02.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="Case_06.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/CSS/Basic/Case_06/Case_06.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="login.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/JS/spa/foms/login.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/CSS/Framewarks/pos/foms/login.html" useBuiltInWebServerPort="true">
@@ -84,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.Case_02.html" />
+        <item itemvalue="JavaScript Debug.Case_01.html" />
         <item itemvalue="JavaScript Debug.login.html" />
-        <item itemvalue="JavaScript Debug.login.html (1)" />
         <item itemvalue="JavaScript Debug.Case_06.html" />
-        <item itemvalue="JavaScript Debug.Case_05.html" />
-        <item itemvalue="JavaScript Debug.Case_04.html (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +127,8 @@
       <workItem from="1665650607918" duration="40000" />
       <workItem from="1665650698492" duration="61000" />
       <workItem from="1665650884699" duration="4614000" />
-      <workItem from="1665727537614" duration="10108000" />
+      <workItem from="1665727537614" duration="11526000" />
+      <workItem from="1665752066482" duration="701000" />
     </task>
     <servers />
   </component>
