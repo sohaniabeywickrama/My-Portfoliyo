@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="db9432ae-c998-4f4b-93de-afdb5cd93e41" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/apple-icon-180x180.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image/Portfolio.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/CSS/Framewarks/pos/foms/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/CSS/Framewarks/pos/foms/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/CSS/Framewarks/pos/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +57,19 @@
       <recent name="D:\Myportfoliyo-main\Assignment\js\spa\assert\js" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
-    <configuration name="Case_01.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/CSS/Basic/Case_01/Case_01.html" useBuiltInWebServerPort="true">
-      <method v="2" />
+  <component name="RunManager" selected="JavaScript Debug.login.html">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Case_02.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/CSS/Basic/Case_02/Case_02.html" useBuiltInWebServerPort="true">
       <method v="2" />
@@ -67,19 +77,22 @@
     <configuration name="Case_03.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/CSS/Basic/Case_03/Case_03.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Case_03.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/CSS/Animation/Case_03/Case_03.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/CSS/Framewarks/pos/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/CSS/Framewarks/pos/foms/login.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.login.html" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.Case_03.html (1)" />
         <item itemvalue="JavaScript Debug.Case_02.html (1)" />
-        <item itemvalue="JavaScript Debug.Case_01.html (1)" />
-        <item itemvalue="JavaScript Debug.Case_03.html" />
       </list>
     </recent_temporary>
   </component>
@@ -114,6 +127,7 @@
       <workItem from="1665650607918" duration="40000" />
       <workItem from="1665650698492" duration="61000" />
       <workItem from="1665650884699" duration="4614000" />
+      <workItem from="1665727537614" duration="681000" />
     </task>
     <servers />
   </component>
