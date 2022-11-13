@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db9432ae-c998-4f4b-93de-afdb5cd93e41" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assignment/JS/Calculator/assests/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/JS/Calculator/assests/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment/JS/SPA/foms/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/JS/SPA/foms/login.html" afterDir="false" />
-    </list>
+    <list default="true" id="db9432ae-c998-4f4b-93de-afdb5cd93e41" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,7 +134,7 @@
       <workItem from="1666923961478" duration="3577000" />
       <workItem from="1668256030648" duration="3318000" />
       <workItem from="1668333835527" duration="267000" />
-      <workItem from="1668334150693" duration="724000" />
+      <workItem from="1668334150693" duration="777000" />
     </task>
     <servers />
   </component>
