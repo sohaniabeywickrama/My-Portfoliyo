@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db9432ae-c998-4f4b-93de-afdb5cd93e41" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/JS/Calculator/assests/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/JS/Calculator/assests/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/JS/SPA/foms/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/JS/SPA/foms/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,7 @@
       <recent name="D:\Myportfoliyo-main\Assignment\js\spa\assert\js" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (4)">
+  <component name="RunManager" selected="JavaScript Debug.login.html">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -87,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.login.html" />
         <item itemvalue="JavaScript Debug.index.html (4)" />
         <item itemvalue="JavaScript Debug.index.html (3)" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Node.js.bootstrap.js" />
-        <item itemvalue="JavaScript Debug.login.html" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +137,7 @@
       <workItem from="1666923961478" duration="3577000" />
       <workItem from="1668256030648" duration="3318000" />
       <workItem from="1668333835527" duration="267000" />
-      <workItem from="1668334150693" duration="335000" />
+      <workItem from="1668334150693" duration="724000" />
     </task>
     <servers />
   </component>
