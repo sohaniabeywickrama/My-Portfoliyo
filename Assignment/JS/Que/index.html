@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<style>
+    body {
+        position: absolute;
+        inset: 0;
+        margin: auto;
+        width: 100%;
+        height: 200px;
+        text-align: center;
+    }
+    section>form{
+        position: relative;
+        display: flex;
+        inset: 0;
+        flex-direction: column;
+        width: 600px;
+        margin: auto;
+
+    }
+    #add{
+        width: 170px;
+        height: 50px;
+        color: white;
+        font-size: 27px;
+        font-style: normal;
+        font-weight: 800;
+        background-color: #4475d1;
+        border-radius: 20px;
+        border: 0;
+        margin-top: 10px;
+        cursor: pointer;
+    }
+    section>form>input{
+        margin-top: 10px;
+        margin-bottom: 10px;
+        height: 50px;
+        width: auto;
+    }
+    main{
+        margin: 10px;
+        position: relative;
+        display: flex;
+        justify-content: center;
+    }
+    main>div{
+        width: 120px;
+        height: 80px;
+        border :1px solid black;
+        font-size: 20px;
+        text-align: center;
+    }
+</style>
+<body>
+<section>
+    <form>
+        <input id ="name" type="text" placeholder="Name">
+        <input id ="color" type="color" placeholder="Color">
+
+    </form>
+    <button id="add" type ="submit">Add Que</button>
+</section>
+<main>
+
+</main>
+
+  <script src="assets/js/jquery-3.6.1.min.js"></script>
+
+  <script>
+     var cueData={
+         persons:[
+             {name:"kasun",color:"red"},
+             {name:"Dasun",color:"green"},
+             {name:"Vimal",color:"orange"}
+         ],
+         nextPerson:function (){
+
+           var lastPerson = cueData.persons.pop();
+           this.persons.unshift(lastPerson);
+
+         }
+
+     }
+
+     function renderDiv(){
+         $('main').empty();
+         for (let i=0;i<cueData.persons.length;i++){
+             $('main').append(`<div style="background-color:${cueData.persons[i].color} "><span>${cueData.persons[i].name}</span></div>`);
+         }
+         cueData.nextPerson();
+     }
+     renderDiv();
+     setInterval(renderDiv,1000);
+    $('#add').click(function (){
+
+        var name = $('#name').val();
+        var color = $('#color').val();
+
+        var person={name:name,color:color};
+        cueData.persons.unshift(person);
+        var name = $('#name').val("");
+
+    });
+
+
+
+
+  </script>
+</body>
+
+</html>
