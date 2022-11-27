@@ -4,7 +4,7 @@
 .background{
     width:100%;
     height: 100vh;
-    background-image:url("../image/background1.jpg") ;
+    background-image:url("../image/Bachground1.jpg") ;
     background-size: cover;
     background-repeat: repeat-x;
     overflow-x: hidden;
@@ -12,7 +12,7 @@
 }
 .boy{
     height:180px;
-    margin-top:400px;
+    margin-top:450px;
     position: absolute;
 
 }
@@ -22,7 +22,7 @@
     /*background-color: #ff253a;*/
     position: absolute;
     margin-top: 532px;
-    background-image: url("../image/gif/fire2.gif");
+    background-image: url("../image/gif/blue.gif");
     background-size: contain;
     background-repeat: no-repeat;
 

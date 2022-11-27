@@ -21,7 +21,7 @@ runAnimationNumber=0;
 
 function  runAnimation(){
     runImageNumber=runImageNumber+1
-    if (runImageNumber == 10){
+    if (runImageNumber === 10){
         runImageNumber =0;
     }
     boy.src ="assests/image/Run("+runImageNumber+").png"
@@ -51,7 +51,7 @@ function  runAnimation(){
         boy.style.marginTop = boyMarginTop+"px";
     }
 
-    if(jumpImageNumber ==11){
+    if(jumpImageNumber ===11){
 
         jumpImageNumber=1;
         clearInterval(jumpAnimationNumber);
@@ -74,7 +74,7 @@ function jumpAnimationStart(){
 
 
  function keyCheck(event){
-    // alert(event.which);
+     //alert(event.which);
     // enter=13
     //  space=32
 
