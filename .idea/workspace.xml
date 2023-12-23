@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db9432ae-c998-4f4b-93de-afdb5cd93e41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/image/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/animations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery-3.6.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/style/animations.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/style/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/style/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/style/responsive.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment/JS/Calculator/assests/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/JS/Calculator/assests/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,9 +21,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -43,18 +51,18 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Assignment/JS/Game/assests/image" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Myportfoliyo-main\assets" />
       <recent name="D:\Myportfoliyo-main\Assignment\JS\Game\assests\image" />
       <recent name="D:\Myportfoliyo-main\Assignment\JS\sosoGame\image1\js" />
       <recent name="D:\Myportfoliyo-main\Assignment\JS" />
       <recent name="D:\Myportfoliyo-main" />
-      <recent name="D:\Myportfoliyo-main\assets\fonts\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Myportfoliyo-main\assets\fonts\css" />
@@ -62,18 +70,7 @@
       <recent name="D:\Myportfoliyo-main\Assignment\js\spa\assert\js" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
     <configuration name="game.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/JS/Game/game.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -91,9 +88,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.game.html" />
-        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html (3)" />
         <item itemvalue="JavaScript Debug.index.html (2)" />
       </list>
@@ -146,6 +143,23 @@
       <workItem from="1669103742980" duration="343000" />
       <workItem from="1669104242482" duration="18022000" />
       <workItem from="1669961302478" duration="778000" />
+      <workItem from="1672655049896" duration="2512000" />
+      <workItem from="1674968973440" duration="595000" />
+      <workItem from="1675134609748" duration="42000" />
+      <workItem from="1675503739509" duration="255000" />
+      <workItem from="1676265507425" duration="11250000" />
+      <workItem from="1676485423980" duration="203000" />
+      <workItem from="1679066771780" duration="88000" />
+      <workItem from="1679067256859" duration="63000" />
+      <workItem from="1683877045878" duration="320000" />
+      <workItem from="1683882411487" duration="18000" />
+      <workItem from="1684044221211" duration="1192000" />
+      <workItem from="1685079127951" duration="256000" />
+      <workItem from="1686396070966" duration="4931000" />
+      <workItem from="1686811758000" duration="593000" />
+      <workItem from="1688452952422" duration="661000" />
+      <workItem from="1689668846427" duration="4000" />
+      <workItem from="1691399905494" duration="18000" />
     </task>
     <servers />
   </component>

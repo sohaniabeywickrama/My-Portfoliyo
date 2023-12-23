@@ -1,0 +1,23 @@
+
+.fadeInText {
+    width: 53vw;
+}
+
+span {
+    opacity: 0;
+    transition: all 20ms ease;
+}
+
+span.fade {
+    opacity: 1;
+}
+
+.sectionTitle {
+    opacity: 0;
+    transform: translateX(35px);
+    transition: 0.5s all ease-in-out;
+}
+.sectionTitle-appear {
+    opacity: 1;
+    transform: translateX(0);
+}

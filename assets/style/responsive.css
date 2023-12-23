@@ -1,0 +1,131 @@
+
+@media all and (max-width: 390px) {
+    html {
+        font-size: 2px;
+    }
+    #sectionSkills img {
+        scale: 55%;
+        transition: 0.2s all;
+    }
+    #socialNav img {
+        padding-bottom: 0;
+        scale: 48%;
+    }
+    #homeMainImage {
+        width: 93%;
+        height: 72%;
+        grid-column: 3/10;
+    }
+    #sectionEdu> section> div> img {
+        scale: 36%;
+    }
+    body> footer> nav {
+        padding-left: 35vw;
+        scale: 50%;
+    }
+
+    #mainNavbar {
+        position: static;
+    }
+    #my-logo {
+        display: block;
+        width: 25%;
+        height: 13rem;
+    }
+    body> header {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+    }
+}
+
+@media all and (min-width: 391px) and (max-width: 700px) {
+    html {
+        font-size: 3px;
+    }
+    #homeMainImage {
+        width: 64%;
+        height: 70%;
+        grid-column: 5/10;
+    }
+    #mainNavbar {
+        position: static;
+    }
+    #my-logo {
+        display: block;
+        width: 25%;
+        height: 13rem;
+    }
+    body> header {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    #socialNav img {
+        padding-bottom: 0;
+        scale: 65%;
+    }
+}
+@media all and (min-width: 701px) and (max-width: 1024px) {
+    html {
+        font-size: 4px;
+    }
+    body> header {
+        position: fixed;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        background-color: rgba(255, 255, 255, 0.81);
+        z-index: 2;
+        top: 0;
+        height: 10vh;
+        width: 100%;
+    }
+    #my-logo {
+        background: url("../image/my-logo.png");
+        background-size: cover;
+        width: 49rem;
+        height: 12rem;
+    }
+    #mainNavbar {
+        position: static;
+    }
+    #socialNav img {
+        padding-bottom: 0.5rem;
+        scale: 75%;
+    }
+}
+
+@media all and (min-width: 1025px) {
+    html {
+        font-size: 5px;
+    }
+    body> header {
+        position: fixed;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        background-color: rgba(255, 255, 255, 0.81);
+        z-index: 2;
+        top: 0;
+        height: 10vh;
+        width: 100%;
+    }
+    #my-logo {
+        background: url("../image/my-logo.png");
+        background-size: cover;
+        width: 49rem;
+        height: 12rem;
+    }
+    #mainNavbar {
+        position: static;
+        padding-left: 12rem;
+    }
+    #socialNav img {
+        padding-bottom: 1.5rem;
+        scale: 100%;
+    }
+}
+
