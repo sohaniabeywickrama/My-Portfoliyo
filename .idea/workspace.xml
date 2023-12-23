@@ -1,45 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db9432ae-c998-4f4b-93de-afdb5cd93e41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/image/facebook.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/instagram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/animations.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery-3.6.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/style/animations.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/style/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/style/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/style/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="f18b466a-a32d-44b0-bfb0-86aaaf3e4c94" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
-  </component>
-  <component name="ProjectId" id="2F0qagOYOzdQe4pVbVZtuvQZJl9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2R3Rc1SJcMRuGeDimhzItWDmBHS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,138 +28,38 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Myportfoliyo-main\assets" />
-      <recent name="D:\Myportfoliyo-main\Assignment\JS\Game\assests\image" />
-      <recent name="D:\Myportfoliyo-main\Assignment\JS\sosoGame\image1\js" />
-      <recent name="D:\Myportfoliyo-main\Assignment\JS" />
-      <recent name="D:\Myportfoliyo-main" />
+      <recent name="D:\IJSE\myweb" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Myportfoliyo-main\assets\fonts\css" />
-      <recent name="D:\Myportfoliyo-main\Assignment\js\spa\assert\css" />
-      <recent name="D:\Myportfoliyo-main\Assignment\js\spa\assert\js" />
+      <recent name="D:\IJSE\myweb\assets\img" />
     </key>
-  </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
-    <configuration name="game.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/JS/Game/game.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/JS/sosoGame/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/JS/Knight/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myportfoliyo-main/Internet Technolojy/Assignment/JS/Calculator/assests/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.index.html (1)" />
-        <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.game.html" />
-        <item itemvalue="JavaScript Debug.index.html (3)" />
-        <item itemvalue="JavaScript Debug.index.html (2)" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="db9432ae-c998-4f4b-93de-afdb5cd93e41" name="Default Changelist" comment="" />
-      <created>1663639414084</created>
+      <changelist id="f18b466a-a32d-44b0-bfb0-86aaaf3e4c94" name="Default Changelist" comment="" />
+      <created>1686476856595</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1663639414084</updated>
-      <workItem from="1663639415736" duration="5512000" />
-      <workItem from="1663684784628" duration="1352000" />
-      <workItem from="1663737293299" duration="3090000" />
-      <workItem from="1663818363063" duration="5904000" />
-      <workItem from="1663902148818" duration="675000" />
-      <workItem from="1664248117020" duration="5667000" />
-      <workItem from="1664416175756" duration="3351000" />
-      <workItem from="1664599908883" duration="4122000" />
-      <workItem from="1664678160239" duration="1037000" />
-      <workItem from="1664764574634" duration="682000" />
-      <workItem from="1664976695610" duration="2247000" />
-      <workItem from="1665018428481" duration="1225000" />
-      <workItem from="1665027561175" duration="12398000" />
-      <workItem from="1665111504125" duration="31831000" />
-      <workItem from="1665285340223" duration="3209000" />
-      <workItem from="1665368163166" duration="12607000" />
-      <workItem from="1665454377806" duration="14072000" />
-      <workItem from="1665545681179" duration="12928000" />
-      <workItem from="1665588195823" duration="3265000" />
-      <workItem from="1665626014469" duration="5599000" />
-      <workItem from="1665650607918" duration="40000" />
-      <workItem from="1665650698492" duration="61000" />
-      <workItem from="1665650884699" duration="4614000" />
-      <workItem from="1665727537614" duration="11526000" />
-      <workItem from="1665752066482" duration="10470000" />
-      <workItem from="1665880838951" duration="2056000" />
-      <workItem from="1666333836198" duration="159000" />
-      <workItem from="1666505263500" duration="477000" />
-      <workItem from="1666616530474" duration="27000" />
-      <workItem from="1666757822098" duration="347000" />
-      <workItem from="1666923961478" duration="3577000" />
-      <workItem from="1668256030648" duration="3318000" />
-      <workItem from="1668333835527" duration="267000" />
-      <workItem from="1668334150693" duration="777000" />
-      <workItem from="1668339674090" duration="198000" />
-      <workItem from="1669097143320" duration="117000" />
-      <workItem from="1669103742980" duration="343000" />
-      <workItem from="1669104242482" duration="18022000" />
-      <workItem from="1669961302478" duration="778000" />
-      <workItem from="1672655049896" duration="2512000" />
-      <workItem from="1674968973440" duration="595000" />
-      <workItem from="1675134609748" duration="42000" />
-      <workItem from="1675503739509" duration="255000" />
-      <workItem from="1676265507425" duration="11250000" />
-      <workItem from="1676485423980" duration="203000" />
-      <workItem from="1679066771780" duration="88000" />
-      <workItem from="1679067256859" duration="63000" />
-      <workItem from="1683877045878" duration="320000" />
-      <workItem from="1683882411487" duration="18000" />
-      <workItem from="1684044221211" duration="1192000" />
-      <workItem from="1685079127951" duration="256000" />
-      <workItem from="1686396070966" duration="4931000" />
-      <workItem from="1686811758000" duration="593000" />
-      <workItem from="1688452952422" duration="661000" />
-      <workItem from="1689668846427" duration="4000" />
-      <workItem from="1691399905494" duration="18000" />
+      <updated>1686476856595</updated>
+      <workItem from="1686476858417" duration="3160000" />
+      <workItem from="1686798938377" duration="5652000" />
+      <workItem from="1686811753991" duration="5853000" />
+      <workItem from="1688452929476" duration="684000" />
+      <workItem from="1692358798387" duration="3000" />
+      <workItem from="1703217223425" duration="514000" />
+      <workItem from="1703217758534" duration="22461000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>

@@ -1,625 +1,263 @@
 <!DOCTYPE html>
-<html lang="en" xmlns="http://www.w3.org/1999/html">
+<html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <title>My-Portfolio</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <meta content="Sohani Abeywickrama" name="owner">
-    <meta content="Portifolio, Developer, Software Engineer, Website, Software, HTML,Java,Css,JavaScript,Hire,Full Stack Developer"
-          name="keywords">
-    <meta content="Portifolio FullStack Developer" name="author">
-    <meta content="white" name="theme-color">
-    <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
-    <meta content="width=device-width initial-scale=1  user-scalable=no" name="viewport">
-    <style>
-        body {
-            background-color:floralwhite;
-            font-family: 'Poppins';
-            font-size: 23px;
-        }
-
-
-        #header
-
-        #navbar {
-
-            overflow: hidden;
-            background-color: black;
-            padding: 90px 10px;
-            transition: 0.4s;
-            position: fixed;
-            width: 100%;
-            top: 0;
-            z-index: 99;
-        }
-
-        #navbar a {
-            float: left;
-            color: black;
-            text-align: center;
-            padding: 6px;
-            text-decoration: none;
-            font-size: 20px;
-            line-height: 25px;
-            border-radius: 2px;
-        }
-
-        #navbar #logo {
-            font-size: 35px;
-            font-weight: bold;
-            transition: 0.4s;
-        }
-        #navbar span {
-            color: #fa118e;
-        }
-        #navbar a:hover {
-            background-color: #ddd;
-            color: black;
-        }
-
-        #navbar a.active {
-            background-color: #000000;
-            color: deeppink;
-        }
-
-        #navbar-right {
-            float: right;
-            color: #000000;
-        }
-
-        @media screen and (max-width: 580px) {
-            #navbar {
-                padding: 20px 10px !important;
-            }
-            #navbar a {
-                float: none;
-                display: block;
-                text-align: left;
-            }
-            #navbar-right {
-                float: none;
-            }
-        }
-
-
-
-
-        #home-set {
-
-
-            text-decoration: none;
-            overflow: hidden;
-            background-color: white;
-            padding: 90px 10px;
-            transition: 0.4s;
-            width: 100%;
-            top: 0;
-            z-index: 99;
-        }
-
-
-
-        .Home-Text-Container > img {
-
-            height: auto;
-            float: right;
-            width: 400px;
-        }
-
-        .Home-Text-Container >h4{
-
-            height: auto;
-            text-decoration: none;
-            color: gray;
-        }
-        .social >h4{
-
-            height: auto;
-            text-decoration: none;
-            color: gray;
-
-        }
-        .Home-Text-Container >h2{
-            height: auto;
-            font-weight: 8600;
-            color: #07073d;
-            font-size: 60px;
-        }
-
-        span {
-            color: #fa118e;
-        }
-        .Home-Text-Container> button{
-
-            bottom: 5%;
-            width: 120px;
-            height: 40px;
-            color: #ffffff;
-            outline: none;
-            border: none;
-            background-color:#fa118e ;
-            border-radius: 5px;
-        }
-
-
-        #about-me > img {
-            height: auto;
-            float: left;}
-        > h5 {
-            color: gray;
-        }
-        #about-me>h1 {
-            height: auto;
-            margin:40px;
-            color: #07073d;
-            font-weight: bold;
-            font-size: 45px;
-            bold:80%;
-
-        }
-        span {
-            color: #fa118e;
-        }
-
-        @media screen and (max-width: 580px) {
-            #home-set {
-                padding: 20px 10px !important;
-            }
-
-        }
-
-
-
-
-
-
-        #services
-
-
-        #services>h1 {
-            margin:40px;
-            color: #07073d;
-            font-weight: bold;
-            font-size: 45px;
-
-        }
-
-        #ser-img >   img {
-            width: 440px;
-            text-decoration: none;
-            height: auto;
-        }
-
-        span {
-            color: #fa118e;
-        }
-        @media screen and (max-width: 580px) {
-            #home-set {
-                padding: 20px 10px !important;
-            }
-
-        }
-
-
-        #skills> h1 {
-            margin:40px;
-            color: #07073d;
-            font-weight: bold;
-            font-size: 45px;
-
-        }
-        span {
-            color: #fa118e;
-        }
-        #skills> div {
-            height: 95px;
-            width: 440px;
-            margin: auto;
-            border: 2px solid #dbc3e7;
-            float:left;
-            padding: 20px 0;
-        }
-
-        #skills> img {
-            background-color: #c169a2;
-        }
-
-        #skills>div> h5 {
-            margin: auto;
-            height: 10px;
-            width: 120px;
-            float: right;
-            color: #07073d;
-            font-weight: bold;
-            font-size: 15px;
-        }
-        button{
-            bottom: 5%;
-            width: 70px;
-            height: 30px;
-            color: #ffffff;
-            outline: none;
-            border: none;
-            background-color: #f17dc3;
-            border-radius: 5px;
-        }
-
-        @media only screen and (max-width: 768px) {
-            /* For mobile phones: */
-            [class*="col-"] {
-                width: 100%;
-            }
-        }
-
-
-        #projects
-
-        img {
-            width: 440px;
-
-        }
-
-        #projects > h1 {
-            margin: 40px;
-            color: #07073d;
-            font-weight: bold;
-            font-size: 45px;
-
-        }
-
-        span {
-            color: #fa118e;
-        }
-        .projects > button {
-            bottom: 5%;
-            width: 100px;
-            height: 40px;
-            color: #ffffff;
-            outline: none;
-            border: none;
-            background-color:#fa118e ;
-            border-radius: 5px;
-
-        }
-
-        @media screen and (max-width: 580px) {
-            #home-set {
-                padding: 20px 10px !important;
-            }
-
-        }
-
-
-        #education > h1 {
-            margin:40px;
-            color: #07073d;
-            font-weight: bold;
-            font-size: 45px;
-
-        }
-        h4 {
-            margin: 40px;
-            color: #fa118e;
-        }
-
-
-        .edu-line.  span {
-            color: #fa118e;
-        }
-
-        p {
-            margin: 40px;
-            color: gray;
-        }
-
-
-
-
-
-        #contact
-        {
-            margin:00px;
-            font-weight: bold;
-            font-size: 14px;
-            opacity: 1;
-            visibility: visible;
-            transition: all 0.3s ease-in-out;
-
-
-        }
-
-
-
-        h1 {
-            margin:40px;
-            color: #07073d;
-            font-weight: bold;
-            font-size: 45px;
-
-        }
-        span {
-            color: #fa118e;
-        }
-        input {
-
-            width: 400px;
-            height: 50px;
-            color: #ffffff;
-            outline: none;
-            border: none;
-            background-color: #f580bf;
-            justify-content: center;
-
-        }
-
-        textarea {
-            width: 400px;
-            height: 150px;
-            color: #ffffff;
-            outline: none;
-            border: none;
-            background-color: #f580bf;
-            justify-content: center;
-
-        }
-        .contact > button {
-            bottom: 5%;
-            width: 120px;
-            height: 40px;
-            color: #ffffff;
-            outline: none;
-            border: none;
-            background-color: #f10f84;
-            border-radius: 5px;
-        }
-
-        @media only screen and (max-width: 768px) {
-            /* For mobile phones: */
-            [class*="col-"] {
-                width: 100%;
-            }
-        }
-
-
-
-        #footer
-
-        #navbar #logo {
-            font-size: 35px;
-            font-weight: bold;
-            transition: 0.4s;
-        }
-
-        #sa {
-            float: left;
-        }
-        a {
-            float: right;
-        }
-
-        @media screen and (max-width: 580px) {
-            #home-set {
-                padding: 20px 10px !important;
-            }
-
-        }
-
-
-
-
-
-
-    </style>
+  <meta charset="UTF-8">
+  <title> S P A </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="./assets/css/style.css" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css?family=Outfit" rel="stylesheet"
+        type="text/css" />
+  <link href="https://fonts.googleapis.com/css?family=Outfit" rel="stylesheet">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <!-- Slick CSS -->
+  <link rel="stylesheet" type="text/css"
+        href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css" />
+  <link rel="stylesheet" type="text/css"
+        href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css" />
+  <title>J1 Projects</title>
 </head>
 
-<main>
-    <header>
+<body>
+<style>
+  * {box-sizing: border-box;}
 
-        <div id="navbar">
+  body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #navbar {
+    overflow: hidden;
+    background-color: #f1f1f1;
+    padding:3px 10px;
+    transition: 0.4s;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 99;
+  }
+
+  #navbar a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 4px;
+  }
+
+  #navbar #logo {
+    font-size: 35px;
+    font-weight: bold;
+    transition: 0.4s;
+  }
+
+  #navbar a:hover {
+    background-color: #ffffff;
+    color: black;
+  }
+
+  #navbar a.active {
+    background-color: #ff3355;
+    color: white;
+  }
+
+  #navbar-right {
+    float: right;
+  }
+
+  @media screen and (max-width: 580px) {
+    #navbar {
+      padding: 20px 10px !important;
+    }
+    #navbar a {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+    #navbar-right {
+      float: none;
+    }
+  }
+</style>
+</head>
+<body>
+
+<div id="navbar">
+
+  <img src="assets/img/Logo.png" alt="Flowers in Chania">
+  <div id="navbar-right">
+    <a class="active" href="#home">Home</a>
+    <a href="https://read.cv/sohanyy">Resume</a>
+    <a href="#about">About</a>
+    <a href="mailto:sohaniabeywickrama@gmail.com">sohaniabeywickrama@gmail.com</a>
+  </div>
+</div>
 
 
-            <a href="#default" id="logo"><span><b>SA</b></span>.</a>
-            <div id="navbar-right">
-                <a class="active" href="#home"><b>Home</b></a>
-                <a href="#about-me"><b>About</b></a>
-                <a href="#services"><b>Services</b></a>
-                <a href="#skills"><b>Skills</b></a>
-                <a href="#projects"><b>Projects</b></a>
-                <a href="#education"><b>Education</b></a>
-                <a href="#contact"><b>Contact</b></a>
-            </div>
+<section class="container pt-4">
+
+  <section class="row pt-4">
+    <div class="col-lg-6 bg-lt">
+
+      <div class="col-lg-12 p-0">
+        <br>
+        <br>
+        <h2><b>A Product Designer</b></h2>
+        <br>
+      </div>
+      <div class="col-lg-12 p-0 pb-4">
+        <div class="pb-3" >
+          In the digital design arena, I seamlessly blend simplicity with
+          innovation, turning potential frustration into pure delight. Users
+          effortlessly navigate through a world where smart design prevails.
+          Every interaction, from clicks to swipes, becomes a source of
+          genuine joy. My focus extends beyond meeting user needs; it aims
+          to elevate their experience, creating a harmonious fusion of
+          usability and excitement within the digital landscape. Welcome to a
+          realm where each interaction is a journey, and the convergence of
+          simplicity and innovation sparks joy for users exploring the vast
+          possibilities at their fingertip
         </div>
-
-
-    </header>
-    <br>
-
-    <div id="home-set">
-
-        <section class="Home-Text-Container">
-            <br>
-            <img alt="logo"  src="assets/image/Hero%203d%20image.png">
-            <h2 class="hello">Hello! <br> I’m <span> <b>Sohani Abeywickrama </b></span> </h2>
-
-            <h4>Professional Full-stack Developer</h4>
-            <button>Hire Me</button>
-
-
-
-            <h4> Follow Me On:<img src="assets/image/FacebookOctDenoiserBeauty_001%20copy.png" style="width:42px;height:42px;"></a>  <img src="assets/image/Instagram.png"> <img src="assets/image/BehanceOctDenoiserBeauty_002.png"></a></h4>
-        </section>
+      </div>
     </div>
 
-    <section id="about-me">
-        <h1 align="center"><b>ABOUT</b><span>.</span></h1>
-        <pre>
-    <img src="assets/image/Group%206.png">
-            <!--    <img src="Assignment/assets/image/7294744.png">      <h4>
-                                 I’m Developer and Designer. I'm very passionate an
-                                 dedicated to my work. I have acquired the skills and
-                                 knowledge necessary to make your project a success.
-                                 Let's collaborate!
-                                 I'm open for collaborations. I can made for you great
-                                 softwares,web designs, portfolios and much others at
-                                 good price.</h4>
-                                     Name: Sohani Sandali Abeywickrama
-                                     Age: 22
-                                     Nationality: Sri Lankan   <button>Download CV</button>
-                                     Phone: 0740153360
-                                     Email: sohaniabeywickrama@gmail.com
-        <!-->
+    </div>
 
 
- </pre>
-
-        <pre>
-
-</pre>
-    </section>
+    </div>
 
 
-    <section</dev> id="services">
-        <h1 align="center">SERVICES<span>.</span></h1>1
+    <div class="col-lg-6 bg-rt">
+      <div class="">
+        <div><img class="img-fluid" src="assets/img/photo_2023-12-03_20-15-50-removebg-preview__4_-removebg-preview%20(1).png" alt="Image 1" width="480" height="603"  </div>
+      </div>
+      <br>
+      <br>
+    </div>
+  </section>
 
-        <div id="ser-img">
-            <img src="assets/image/Group%209.png">
-            <img src="assets/image/Group%2010.png">
-            <img src="assets/image/Group%2011.png">
-        </div>
+  <br>
 
-    </section>
+  <section class="icon">
+    <div class="bg-rw">
+      <!-- Slick Slider -->
+      <div class="slider pt-3">
+        <div><img class="img-fluid" src="assets/img/Ellipse%206.png" alt="Image 1" width="132" height="131"></div>
+        <div><img class="img-fluid" src="assets/img/Ellipse%207.png" alt="Image 1" width="132" height="131"></div>
+        <div><img class="img-fluid" src="assets/img/Ellipse%2013.png" alt="Image 1" width="132" height="131"></div>
+        <div><img class="img-fluid" src="assets/img/download%20(4).png" alt="Image 1" width="132" height="131"></div>
+        <div><img class="img-fluid" src="assets/img/download%20(1).png" alt="Image 1" width="132" height="131"></div>
+        <div><img class="img-fluid" src="assets/img/download%20(2).png" alt="Image 1" width="132" height="131"></div>
+        <div><img class="img-fluid" src="assets/img/download%20(3).png" alt="Image 1" width="132" height="131"></div>
+        <div><img class="img-fluid" src="assets/img/download%20(5).png" alt="Image 1" width="132" height="131"></div>
+        <div><img class="img-fluid" src="assets/img/download%20(6).png" alt="Image 1" width="132" height="131"></div>
+        <div><img class="img-fluid" src="assets/img/download%20(7).png" alt="Image 1" width="132" height="131"></div>
+        <div><img class="img-fluid" src="assets/img/download%20(8).png" alt="Image 1" width="132" height="131"></div>
 
-    <section id="skills">
-        <h1 align="center">SKILLS<span>.</span></h1>
-
-        <div class="java">
-            <img src="assets/image/Group%2012%20(3).png">
-
-            <h5>Experience <button>Submit</button></h5>
-            .
-            <h5>  Projects <button>Submit</button></h5>
-        </div>
-
-
-        <div class="javafx">
-            <img src="assets/image/Group%2012%20(4).png">
-            <h5>Experience <button>Submit</button></h5>
-            <h5>  Projects <button>Submit</button></h5>
-        </div>
-
-
-        <div class="mysql" >
-            <img src="assets/image/Group%2012%20(5).png" >
-            <h5>Experience <button>Submit</button></h5>
-            <h5>  Projects <button>Submit</button></h5>
-        </div>
+      </div>
+      <br>
+      <br>
+  </section>
+</section>
 
 
-        <div class="html" >
-            <img src="assets/image/akar-icons_html-fill.png" >
-            <h5>Experience <button>Submit</button></h5>
-            <h5>  Projects <button>Submit</button></h5>
-        </div>
-        <br>
 
-        <div class="css" >
-            <img src="assets/image/Group%2012%20(6).png">
-            <h5>Experience <button>Submit</button></h5>
-            <h5>  Projects <button>Submit</button></h5>
-        </div>
-        <br>
-
-        <div class="mysql" >
-            <img src="assets/image/Group%2012%20(7).png">
-            <h5>Experience <button>Submit</button></h5>
-            <h5>Projects <button>Submit</button></h5>
-            <br>
-        </div>
-        <
-    </section>
+<section class="container pt-4">
+  <section class="row pt-2"><div class="col-lg-12 bg-latest">
+    <h3 class="m-0"><b> Selected Projects </b></h3>
     <br>
-    <br>
-    <section id="projects">
-        <h1 align="center">PROJECTS<span>.</span></h1>
-        <div class="projects">
-            <img src="assets/image/Rectangle%2012%20(1).png">
-            <img src="assets/image/Rectangle%2013%20(1).png">
-            <img src="assets/image/Rectangle%2014.png">
-            <pre>      <b>Hotel Management System</b>                   <b> Parking System  </b>                <b>   POS System </b>  </pre>
+<br></div>
+    <div class="col-lg-6 bg-lt">
+      <div ><img class="img-fluid" src="assets/img/card%20(1).png" alt="Image 1" width=623" height="414">  </div>
+
+    </div></div></div>
+
+    <div class="col-lg-6 bg-rt">
+      <div class="">
+        <div><a href="https://www.behance.net/gallery/187292607/Web-Design-and-Development"><img class="img-fluid" src="assets/img/card%20(2).png" alt="Image 1" width="623" height="414"></a>  </div>
+      </div></div>
+  </section>
+
+
+
+  <section class="container pt-2">
+
+    <section class="row pt-2">
+      <div class="col-lg-6 bg-lt">
+        <div><a href="https://www.behance.net/gallery/187293231/Website-Redesign"><img class="img-fluid" src="assets/img/card%20(3).png" alt="Image 1" width=623" height="414"></a>   </div>
+
+      </div>
+      </div>
+      </div>
+
+
+      <div class="col-lg-6 bg-rt">
+        <div class="">
+          <div><a href="https://www.behance.net/gallery/186233473/Jewelry-Website-Design"><img class="img-fluid" src="assets/img/card%20(4).png" alt="Image 1" width="623" height="414"></a> </div>
+        </div>
+      </div>
+    </section>
+  </section>
+
+  <section class="container pt-4">
+    <section class="row pt-2"><div class="col-lg-12 bg-latest">
+      <h3 class="m-0"><b> About Me </b></h3>
+      <br>
+      <br></div>
+      <div class="col-lg-6 bg-lt">
+        <div ><img class="img-fluid" src="assets/img/Screenshot%20(175).png" alt="Image 1" width="550" height="250">
+      </div></div></div>
+
+      <div class="col-lg-6 bg-rt">
+        <div class=""> <br> <br>
+          <div> <p> The Welcome to the creative universe of Sohani Abeywickrama, a UI/UX designer passionate about crafting digital experiences that seamlessly fuse aesthetics with functionality. Step into my portfolio, a curated journey that encapsulates my dedication to user-centric design and the ever-evolving art of creating immersive digital landscapes.<br>
             <br>
+            <b> Projects:</b> Each project in my portfolio is a testament to my commitment to marrying form and function. From intuitive interfaces to visually captivating user experiences, explore how I tackle unique challenges and bring creative solutions to life. <br>
             <br>
-            <button align="center">View All</button>
-        </div>
+              <b> Process:</b> Uncover the intricacies of my design process, from initial ideation to meticulous execution. Transparency is key, and you'll witness how I navigate complexities, iterate relentlessly, and refine designs to achieve optimal user experiences.<br>
+            <br>
+                <b> Skills:</b> Delve into my toolkit, encompassing prototyping, wireframing, user testing, and more. Beyond the tools, my skills showcase a mindset rooted in user empathy and a dedication to finding innovative solutions that resonate with users.<br>
+            <br>
+                  <b>Testimonials:</b> Discover the impact of my work through the voices of satisfied clients and collaborators. Building meaningful relationships is as important to me as creating exceptional designs, and their feedback speaks volumes about our collaborative journey.<br>
+            <br>
+                    <b> Let's Collaborate:</b> Whether you're in search of a UI/UX designer for your next project or simply curious about the realm of digital experiences, I extend an invitation to join me on this design odyssey. Together, let's craft something extraordinary that resonates with your audience.</p>
+        </div></div>
     </section>
-
-    <section id="education">
-        <h1 align="center">EDUCATION<span>.</span></h1>
-
-        <div class="edu-line">
-
-            <ul>
-                <li>
-                    <div class="edu-text-content">
-                        <h4><b>Higher Education</b></h4>
-                        <p><b>Institute of Software Engineering</b></p>
-                        <p><b>E-SOFT Metro Campus</b></p>
-                    </div>
-                </li>
-                <li>
-                    <div class="edu-text-content">
-                        <h4><b>Secondary Education</b></h4>
-                        <p><b>Vidyakara Girls School - Colombo</b></p>
-                    </div>
-                </li>
-                <li>
-                    <div class="edu-text-content">
-                        <h4><b>Primery Education</b></h4>
-                        <p><b>Vidyakara Girls School - Colombo</b></p>
-                    </div>
-                </li>
-            </ul>
-        </div>
-    </section>
-
-    <section id="contact">
-
-        <h1 align="center">CONTACT<span>.</span></h1>
-        <div align="center">
-            <form class="contact" action="" method="post">
-
-                <input  id="txtName" type="text" class="text-box" placeholder="Your Name*"><br><br>
-
-                <input  id="txtEmail" type="text" class="text-box" placeholder="E-mail Address*"><br><br>
-
-                <textarea  id="txtAdd" placeholder="Message*"></textarea>
-                <br>
-                <br>
-                <button>Submit</button>
-
-            </form>
-        </div>
-    </section>
-
-
-    <footer>
-        <br>
-        <br>
-
-        <div id="navbar00">
-
-
-            <a  id="sa"><span><b>SA</b></span>.</a>
-            <div id="navbar-right1">
-
-                <a><b>©2022. All Right Reserve</b></a>
-            </div>
-        </div>
+<br>
+<br>
+<footer>
 
 
 
 
-    </footer>
 
-</main>
+
+</body>
 </html>
+
+
+
+
+
+
+
+<!-- Slick JS -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
+<script>
+  $(document).ready(function () {
+    $('.slider').slick({
+      slidesToShow: 5,
+      slidesToScroll: 1,
+      arrows: true,
+      autoplay: true,
+      prevArrow: $('.slick-prev'),
+      nextArrow: $('.slick-next')
+    });
+  });
+</script>
