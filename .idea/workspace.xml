@@ -3,6 +3,26 @@
   <component name="ChangeListManager">
     <list default="true" id="f18b466a-a32d-44b0-bfb0-86aaaf3e4c94" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/bruce-mars.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/drake.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/ivana-square.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/ivana-squares.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/kal-visuals-square.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/marie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team-5.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +99,7 @@
       <workItem from="1692358798387" duration="3000" />
       <workItem from="1703217223425" duration="514000" />
       <workItem from="1703217758534" duration="22901000" />
-      <workItem from="1703318887881" duration="3306000" />
+      <workItem from="1703318887881" duration="5524000" />
     </task>
     <servers />
   </component>
