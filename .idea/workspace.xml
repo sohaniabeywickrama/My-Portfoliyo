@@ -51,21 +51,6 @@
       <recent name="D:\IJSE\myweb\assets\img" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -81,7 +66,8 @@
       <workItem from="1692358798387" duration="3000" />
       <workItem from="1703217223425" duration="514000" />
       <workItem from="1703217758534" duration="22901000" />
-      <workItem from="1703318887881" duration="17410000" />
+      <workItem from="1703318887881" duration="19246000" />
+      <workItem from="1704188342676" duration="3000" />
     </task>
     <servers />
   </component>
@@ -98,5 +84,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
